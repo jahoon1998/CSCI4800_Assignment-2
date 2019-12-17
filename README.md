@@ -1,4 +1,5 @@
 
+## Sep 27, 2018 
 # CSCI 4800 Web Application Devlopment Assignment 2
 ## This is the first step toward designing a Mini Twitter Website.
 In this assignment, we learn to design the UI page for a sign-up form
