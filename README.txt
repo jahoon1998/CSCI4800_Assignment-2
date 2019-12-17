@@ -1,4 +1,4 @@
-#This is the first step toward designing a Mini Twitter Website.
+# This is the first step toward designing a Mini Twitter Website.
 #In this assignment, we learn to design the UI page for a sign-up form
 #Our goal is to
 #(I) design UI interface of Sign-up page of our MiniTwitter Project
